@@ -1,0 +1,5 @@
+{
+  "name": "SmartShift AI - 智能自動排班系統",
+  "description": "一個簡潔、專業的自動排班系統。結合勞基法規與個人化需求，利用 Gemini AI 技術一鍵生成最優排班表。",
+  "requestFramePermissions": []
+}
